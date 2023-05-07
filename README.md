@@ -1,5 +1,5 @@
 
-
+[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dagem Gissila iam web site developer</h1>
 <h3 align="center">Web site Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
@@ -10,7 +10,7 @@
 - 🔭 I can develope **responsive and user-friendly website that meet client needs**
 - 🌱 I’m currently learning **React js**
 
-- 💬 I’m currently working on **Arbamich university credit and saving inft management system**
+- 💬 I’m currently working on**Arbamich university employee credit and saving inft management system**
 
 - 📫 How to reach me **251943880714**
 
